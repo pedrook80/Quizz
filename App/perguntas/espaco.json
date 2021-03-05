@@ -1,0 +1,22 @@
+[
+  {
+    question: "Qual é o 5 planeta do sistema solar?",
+    font: "Jupiter está na quinta posição a partir do sol",
+    answers: [
+      { id: "1", text: "Marte" },
+      { id: "2", text: "Jupiter", correct: true },
+      { id: "3", text: "Saturno" },
+      { id: "4", text: "Venus" }
+    ]
+  },
+  {
+    question: "Quantos planetas existem no Sistema Solar?",
+    font: "Ao total são 8 planetas com Plutão não sendo considerado um planeta por ser pequeno em comparação aos outros",	
+    answers: [
+      { id: "1", text: "6" },
+      { id: "2", text: "7" },
+      { id: "3", text: "8", correct: true },
+      { id: "4", text: "9" }
+    ]
+  }
+];

@@ -1,0 +1,33 @@
+[
+  {
+    question:
+      "Quem descobriu o Brasil?",
+    font: "Foi o Pedro Alvares Cabral nó seculo 18 as caminho das Indias",
+    answers: [
+      { id: "1", text: "Pedro Alvares Cabral", correct: true },
+      { id: "2", text: "Pedro Augusto" },
+      { id: "3", text: "Cristovão Colombo" },
+      { id: "4", text: "Indios" }
+    ]
+  },
+  {
+    question: "Quem descobriu a America do Norte?",
+    font: "Foi Cristovão colombo",
+    answers: [
+      { id: "1", text: "Cristovão colombo", correct: true },
+      { id: "2", text: "Piratas" },
+      { id: "3", text: "Colonos" },
+      { id: "4", text: "Vasco da Gama" }
+    ]
+  },
+  {
+    question: "Quem era o lider da Alemanha na Segunda Guerra mundial?",
+    font: "Depois da morte do Presidente da Alemanha Hitler se torna o novo governante do pais",
+    answers: [
+      { id: "1", text: "Vandal Savage" },
+      { id: "2", text: "Adolf Hitler", correct: true },
+      { id: "3", text: "Benito Amilcare Andrea Mussolini" },
+      { id: "4", text: "James Salt" }
+    ]
+  }
+];
